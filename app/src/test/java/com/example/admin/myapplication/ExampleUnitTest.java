@@ -1,4 +1,4 @@
-package com.example.bichpv.androidproject;
+package com.example.admin.myapplication;
 
 import org.junit.Test;
 
@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
     @Test
-    public void addition_isCorrect() throws Exception{
-        assertEquals(4, 2 + 3);
+    public void addition_isCorrect() {
+        assertEquals(4, 2 + 2);
     }
 }
